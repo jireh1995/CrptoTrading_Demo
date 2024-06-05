@@ -1,2 +1,14 @@
 # CrptoTrading_Demo
-A non-finished crap trading system. Will be update later
+这个项目暂时还没完成，后续会继续更新
+***请勿使用这个系统用在实盘交易当中，回撤汇报不代表实际汇报。任何后果自行承担***
+暂时这个软件我还没有设计前端界面，所以使用这个软件的朋友可能需要用vscode或者任何其他解释器
+
+
+如何运行：
+1. 需要先安装最新的python来运行这个软件
+2. 终端机输入pip3 install requirements.txt --user 先安装所需要环境
+3. 直接输入python main.py运行
+4. 输入假设的账户余额来设置起始本金。
+5. 系统会自动迭代，随后会给出回撤的回报率
+
+谢谢
